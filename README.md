@@ -1,7 +1,5 @@
 # Sales-Customer-Product-Performance-Analysis-Dashboard-Power-BI
 
-# Sales & Profit Performance Analytics Dashboard (Power BI)
-
 ## Project Overview
 This project focuses on analyzing sales, profit, customer, and product performance 
 to support data-driven business decisions.
